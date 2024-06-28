@@ -5,4 +5,4 @@ models:
     description: ""
     columns:
       - name: sk_tipo_departamento_tareas
-        description: automatically updated by the mind of the Genius Germán Artigot Cortizo
+        description: automatically re-updated by the mind of the Genius Germán Artigot Cortizo
